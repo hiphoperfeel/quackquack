@@ -1,0 +1,23 @@
+{
+  "name": "quackquack",
+  "version": "1.0.0",
+  "description": "test :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiphoperfeel/quackquack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiphoperfeel/quackquack/issues"
+  },
+  "homepage": "https://github.com/hiphoperfeel/quackquack#readme",
+  "devDependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1"
+  }
+}
